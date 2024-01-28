@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.ontariotechu.sofe3980U","l":"App"},{"p":"com.ontariotechu.sofe3980U","l":"Binary"}]

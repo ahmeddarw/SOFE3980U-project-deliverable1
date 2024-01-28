@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.ontariotechu.sofe3980U.BinaryTest" time="0.006" tests="20" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\ahmed\Desktop\SQ-Project-1\BinaryCalculator\target\test-classes;C:\Users\ahmed\Desktop\SQ-Project-1\BinaryCalculator\target\classes;C:\Users\ahmed\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar;C:\Users\ahmed\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ahmed\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="AdoptOpenJDK"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptopenjdk.net/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CA"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\ahmed\AppData\Local\Temp\surefire1434765120604434059\surefirebooter63924919841885494.jar C:\Users\ahmed\AppData\Local\Temp\surefire1434765120604434059 2024-01-28T12-31-59_381-jvmRun1 surefire8687278141688266297tmp surefire_06449564817044975140tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\ahmed\Desktop\SQ-Project-1\BinaryCalculator\target\test-classes;C:\Users\ahmed\Desktop\SQ-Project-1\BinaryCalculator\target\classes;C:\Users\ahmed\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar;C:\Users\ahmed\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ahmed\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ahmed"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.home" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\ahmed\Desktop\SQ-Project-1\BinaryCalculator"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\ahmed\AppData\Local\Temp\surefire1434765120604434059\surefirebooter63924919841885494.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.8+10"/>
+    <property name="user.name" value="ahmed"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="AdoptOpenJDK"/>
+    <property name="localRepository" value="C:\Users\ahmed\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/AdoptOpenJDK/openjdk-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\ahmed\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.8"/>
+    <property name="user.dir" value="C:\Users\ahmed\Desktop\SQ-Project-1\BinaryCalculator"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MATLAB\R2020a\runtime\win64;C:\Program Files\MATLAB\R2020a\bin;C:\Program Files\SASHome\SASFoundation\9.4\ets\sasexe;C:\Program Files\SASHome\Secure\ccme4;c:\Xilinx\bin\nt;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\ahmed\AppData\Local\Programs\Python\Python39\Scripts;C:\Program Files\Git\cmd;C:\Users\ahmed\AppData\Local\Microsoft\WindowsApps;C:\Users\ahmed\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;;C:\Program Files\JetBrains\PyCharm Community Edition 2020.3.2\bin;;C:\Program Files\Azure Data Studio\bin;C:\Users\ahmed\AppData\Local\Programs\Python\Python39\Scripts\pip3.exe;C:\Program Files\Maven\bin;C:\ProgramData\ahmed\GitHubDesktop\bin;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="AdoptOpenJDK"/>
+    <property name="java.vm.version" value="11.0.8+10"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="constructorWithInvalidDigits" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="OR" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="OR2" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="OR3" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="add" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="AND1" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0.001"/>
+  <testcase name="AND2" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0.001"/>
+  <testcase name="AND3" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0.002"/>
+  <testcase name="add2" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="add3" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="add4" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="add5" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="constructorWithNegativeSign" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="constructorWithInvalidChars" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="constructorEmptyString" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="normalConstructor" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="constructorWithZeroTailing" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="MULTIPLY" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+  <testcase name="MULTIPLY2" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0.001"/>
+  <testcase name="MULTIPLY3" classname="com.ontariotechu.sofe3980U.BinaryTest" time="0"/>
+</testsuite>
